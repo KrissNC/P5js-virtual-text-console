@@ -1,6 +1,6 @@
 # P5js-virtual-text-console
 
-This provides a virtual text console to P5 sketchs.
+# This provides a virtual text console to P5 sketchs.
 
 The VirtualConsole object, stores a screen. Text and colors including background colors.
 
